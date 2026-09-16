@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "id": "labels",
+      "name": "LABELS",
+      "type": "vector",
+      "sld": "sld/labels.sld"
+    },
+    {
+      "id": "locations",
+      "name": "LOCATIONS",
+      "type": "vector",
+      "sld": "sld/locations.sld"
+    }
+  ]
+}

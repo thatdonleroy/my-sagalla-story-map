@@ -1,0 +1,46 @@
+{
+  "version": 3,
+  "title": "My Sagalla Story Map",
+  "layers": [
+    {
+      "type": "vector",
+      "renderMode": "tiles",
+      "order": 0,
+      "id": "labels",
+      "name": "LABELS",
+      "bbox": [
+        38.57177352905273,
+        -3.51119327545166,
+        38.5766716003418,
+        -3.502082824707031
+      ],
+      "opacity": 1.0,
+      "tilesUrl": "tiles/labels/{z}/{x}/{y}.png",
+      "minZoom": 0,
+      "maxZoom": 20,
+      "tileSize": 256,
+      "tileCount": 604
+    },
+    {
+      "type": "vector",
+      "renderMode": "tiles",
+      "order": 1,
+      "id": "locations",
+      "name": "LOCATIONS",
+      "bbox": [
+        38.57098770141602,
+        -3.511493682861328,
+        38.57683563232422,
+        -3.501794815063477
+      ],
+      "opacity": 1.0,
+      "tilesUrl": "tiles/locations/{z}/{x}/{y}.png",
+      "minZoom": 0,
+      "maxZoom": 20,
+      "tileSize": 256,
+      "tileCount": 737
+    }
+  ],
+  "story": "story.json",
+  "legend": "legend.json"
+}
