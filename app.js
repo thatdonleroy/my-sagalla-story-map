@@ -348,7 +348,7 @@
       pane: "basemap",
     });
 
-    const byKey = { osm: osmLayer, street: streetLayer, satellite: satelliteLayer };
+    const byKey = { osm: osmLayer, street: streetLayer, satellite: satelliteLayer};
 
     let current = satelliteLayer;
     satelliteLayer.addTo(map);
@@ -420,7 +420,7 @@
       if (ev.key === "Escape" && !optionsEl.hidden) closeMenu();
     });
 
-    setActiveOption("osm");
+    setActiveOption("satellite");
   }
 
   function setupLegendToggle() {

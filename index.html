@@ -44,8 +44,8 @@
           <span class="basemap-menu-thumb-wrap">
             <img
               id="basemapMenuThumb"
-              src="https://tile.openstreetmap.org/5/21/11.png"
-              alt=""
+              src="https://mt3.google.com/vt/lyrs=s&amp;x=21&amp;y=11&amp;z=5"
+              alt="Google satellite"
               width="40"
               height="40"
               decoding="async"
@@ -55,7 +55,8 @@
           <i class="bi bi-chevron-down basemap-menu-chevron" aria-hidden="true"></i>
         </button>
         <div class="basemap-options" id="basemapOptions" role="listbox" aria-label="Choose basemap" hidden>
-          <button type="button" class="basemap-option selected" data-basemap="osm" role="option" aria-selected="true" title="OpenStreetMap">
+          <!-- 2. Set OSM to unselected -->
+          <button type="button" class="basemap-option" data-basemap="osm" role="option" aria-selected="false" title="OpenStreetMap">
             <span class="basemap-option-thumb">
               <img src="https://tile.openstreetmap.org/5/21/11.png" alt="OpenStreetMap" width="64" height="64" decoding="async" />
             </span>
@@ -65,7 +66,8 @@
               <img src="https://mt3.google.com/vt/lyrs=m&amp;x=21&amp;y=11&amp;z=5" alt="Google street" width="64" height="64" decoding="async" />
             </span>
           </button>
-          <button type="button" class="basemap-option" data-basemap="satellite" role="option" aria-selected="false" title="Google satellite">
+          <!-- 3. Set Satellite to selected -->
+          <button type="button" class="basemap-option selected" data-basemap="satellite" role="option" aria-selected="true" title="Google satellite">
             <span class="basemap-option-thumb">
               <img src="https://mt3.google.com/vt/lyrs=s&amp;x=21&amp;y=11&amp;z=5" alt="Google satellite" width="64" height="64" decoding="async" />
             </span>
