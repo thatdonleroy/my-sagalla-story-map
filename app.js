@@ -1324,9 +1324,24 @@
         if (s.body) {
           body.appendChild(el("p", { className: "story-viewer-text", text: s.body }));
         }
+        if (s.images && Array.isArray(s.images)) {
+          const gallery = el("div", { className: "story-viewer-gallery" });
+          s.images.forEach(function (src) {
+            gallery.appendChild(el("img", { className: "story-viewer-image", src: src, alt: s.title || "" }));
+          });
+          body.appendChild(gallery);
+        }
         prevBtn.disabled = idx <= 0;
         nextBtn.disabled = idx >= secs.length - 1;
         body.scrollTop = 0;
+
+        // Shrink the map from the start i.e., from the introduction section
+        document.body.classList.add("story-focused");
+
+        // Shrink the map once we're past the intro (a section with a real focus point)
+        // const hasFocus = s.center && Array.isArray(s.center) && s.center.length === 2;
+        // document.body.classList.toggle("story-focused", !!hasFocus);
+        map.invalidateSize();
         activateSection(s);
       }
 

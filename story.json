@@ -5,7 +5,12 @@
       "title": "INTRODUCTION",
       "body": "This is a story map about my home village called Sagalla. Sagalla is located about 20 Km from Voi town in Taita-Taveta County. These are the places where I spent most of my time.",
       "center": null,
-      "zoom": 12
+      "zoom": 12,
+      "images": [
+        "images/intro.png",
+        "images/intro (2).png",
+        "images/intro (3).png"
+      ]
     },
     {
       "key": "sec:7067609fc8",
@@ -15,7 +20,12 @@
         38.57666880643236,
         -3.5032319821191327
       ],
-      "zoom": 20
+      "zoom": 19,
+      "images": [
+        "images/home.png",
+        "images/home (2).png",
+        "images/home (3).png"
+      ]
     },
     {
       "key": "sec:a806c08ec2",
@@ -25,7 +35,12 @@
         38.57615928153535,
         -3.509444556026683
       ],
-      "zoom": 19
+      "zoom": 19,
+      "images": [
+        "images/wray.png",
+        "images/wray (2).png",
+        "images/wray (3).png"
+      ]
     },
     {
       "key": "sec:f98c17fad4",
@@ -35,7 +50,12 @@
         38.57578939319903,
         -3.5111911863136482
       ],
-      "zoom": 19
+      "zoom": 19,
+      "images": [
+        "images/mwalangi.png",
+        "images/mwalangi (2).png",
+        "images/mwalangi (3).png"
+      ]
     },
     {
       "key": "sec:1d7512fda5",
@@ -45,7 +65,12 @@
         38.57178152680787,
         -3.502084356553196
       ],
-      "zoom": 19
+      "zoom": 19,
+      "images": [
+        "images/latta.png",
+        "images/latta (2).png",
+        "images/latta (3).png"
+      ]
     }
   ]
 }

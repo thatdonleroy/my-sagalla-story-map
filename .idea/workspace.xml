@@ -4,781 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6a2c3a-0392-4b6e-b4fd-db2c7939e83d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sld/google-hybrid.sld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sld/labels.sld" beforeDir="false" afterPath="$PROJECT_DIR$/sld/labels.sld" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sld/locations.sld" beforeDir="false" afterPath="$PROJECT_DIR$/sld/locations.sld" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sld/village_landmarks_points.sld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/story.json" beforeDir="false" afterPath="$PROJECT_DIR$/story.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/0/0/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/1/1/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/10/621/521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/11/1243/1043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/12/2486/2087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/13/4973/4175.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/14/9947/8351.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/15/19894/16702.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/15/19894/16703.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/15/19895/16702.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/15/19895/16703.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/16/39789/33405.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/16/39789/33406.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/16/39790/33405.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/16/39790/33406.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/17/79579/66811.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/17/79579/66812.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/17/79580/66811.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/17/79580/66812.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/18/159158/133623.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/18/159158/133624.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/18/159159/133623.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/18/159159/133624.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/18/159160/133623.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/18/159160/133624.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318317/267246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318317/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318317/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318318/267246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318318/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318318/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318319/267246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318319/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318319/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318320/267246.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318320/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/19/318320/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/2/2/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636634/534493.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636634/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636634/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636634/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636635/534493.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636635/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636635/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636635/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636636/534493.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636636/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636636/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636636/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636637/534493.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636637/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636637/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636637/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636638/534493.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636638/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636638/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636638/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636639/534493.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636639/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636639/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636639/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636640/534493.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636640/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636640/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/20/636640/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/3/4/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/4/9/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/5/19/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/6/38/32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/7/77/65.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/8/155/130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/google-hybrid/9/310/260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/0/0/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/0/0/0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/1/1/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/1/1/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/10/621/521.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/10/621/521.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/11/1243/1043.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/11/1243/1043.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/12/2486/2087.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/12/2486/2087.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/13/4973/4175.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/13/4973/4175.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/14/9947/8351.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/14/9947/8351.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/15/19894/16702.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/15/19894/16702.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/15/19895/16703.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/15/19895/16703.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/16/39789/33405.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/16/39789/33405.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/16/39790/33406.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/16/39790/33406.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/16/39790/33407.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/16/39790/33407.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/17/79579/66811.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/17/79579/66811.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/17/79581/66812.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/17/79581/66812.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/17/79581/66814.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/17/79581/66814.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/17/79581/66815.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/17/79581/66815.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/18/159159/133623.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/18/159159/133623.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/18/159162/133624.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/18/159162/133624.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/18/159162/133629.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/18/159162/133629.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/18/159162/133630.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/18/159162/133630.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/19/318318/267247.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/19/318318/267247.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/19/318324/267258.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/19/318324/267258.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/19/318324/267260.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/19/318324/267260.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/19/318325/267249.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/19/318325/267249.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/2/2/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/2/2/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/20/636636/534494.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/20/636636/534494.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/20/636648/534516.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/20/636648/534516.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/20/636648/534521.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/20/636648/534521.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/20/636649/534517.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/20/636649/534517.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/20/636650/534498.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/20/636650/534498.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/3/4/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/3/4/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/4/9/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/4/9/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/5/19/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/5/19/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/6/38/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/6/38/32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/7/77/65.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/7/77/65.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/8/155/130.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/8/155/130.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/labels/9/310/260.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/labels/9/310/260.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/10/621/521.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/10/621/521.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/11/1243/1043.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/11/1243/1043.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/12/2486/2087.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/12/2486/2087.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/13/4973/4175.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/13/4973/4175.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/14/9947/8351.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/14/9947/8351.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/15/19895/16703.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/15/19895/16703.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/16/39790/33407.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/16/39790/33407.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/17/79580/66814.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/17/79580/66814.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/17/79581/66814.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/17/79581/66814.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/18/159161/133628.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/18/159161/133628.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/18/159161/133629.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/18/159161/133629.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/18/159162/133628.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/18/159162/133628.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/18/159162/133629.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/18/159162/133629.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318323/267257.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318323/267257.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318323/267258.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318323/267258.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318323/267259.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318323/267259.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318324/267257.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318324/267257.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318324/267258.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318324/267258.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318324/267259.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318324/267259.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318325/267257.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318325/267257.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318325/267258.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318325/267258.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/19/318325/267259.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/19/318325/267259.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636646/534516.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636646/534516.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636646/534517.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636646/534517.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636646/534518.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636646/534518.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636647/534515.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636647/534515.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636647/534516.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636647/534516.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636647/534518.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636647/534518.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636647/534519.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636647/534519.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636648/534515.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636648/534515.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636648/534516.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636648/534516.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636648/534517.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636648/534517.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636648/534518.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636648/534518.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636648/534519.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636648/534519.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636649/534515.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636649/534515.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636649/534516.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636649/534516.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636649/534518.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636649/534518.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636649/534519.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636649/534519.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636650/534515.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636650/534515.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636650/534516.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636650/534516.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636650/534517.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636650/534517.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/20/636650/534518.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/20/636650/534518.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/3/4/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/3/4/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/4/9/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/4/9/8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/5/19/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/5/19/16.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/6/38/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/6/38/32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/7/77/65.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/7/77/65.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/8/155/130.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/8/155/130.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/locations/9/310/260.png" beforeDir="false" afterPath="$PROJECT_DIR$/tiles/locations/9/310/260.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/0/0/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/1/1/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/10/621/521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/11/1243/1043.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/12/2486/2087.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/13/4973/4175.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/14/9947/8351.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/15/19894/16702.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/15/19894/16703.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/15/19895/16702.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/15/19895/16703.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/16/39789/33405.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/16/39789/33406.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/16/39789/33407.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/16/39790/33405.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/16/39790/33406.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/16/39790/33407.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79579/66811.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79579/66812.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79579/66813.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79579/66814.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79579/66815.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79580/66811.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79580/66812.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79580/66813.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79580/66814.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79580/66815.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79581/66811.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79581/66812.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79581/66813.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79581/66814.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/17/79581/66815.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159159/133623.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159159/133624.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159159/133625.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159159/133626.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159159/133627.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159159/133628.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159159/133629.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159159/133630.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159160/133623.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159160/133624.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159160/133625.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159160/133626.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159160/133627.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159160/133628.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159160/133629.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159160/133630.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159161/133623.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159161/133624.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159161/133625.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159161/133626.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159161/133627.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159161/133628.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159161/133629.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159161/133630.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159162/133623.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159162/133624.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159162/133625.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159162/133626.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159162/133627.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159162/133628.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159162/133629.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/18/159162/133630.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318318/267260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318319/267260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318320/267260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318321/267260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318322/267260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318323/267260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318324/267260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267247.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267248.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267249.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267250.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267251.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267252.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267253.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267254.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/19/318325/267260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/2/2/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636636/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636637/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636638/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636639/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636640/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636641/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636642/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636643/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636644/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636645/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636646/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636647/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636648/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636649/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534494.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534495.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534496.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534497.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534498.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534499.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534500.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534501.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534502.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534503.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534504.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534505.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534506.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534507.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534508.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534509.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534510.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534511.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534513.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534514.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534515.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534516.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534517.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534518.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534519.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534520.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/20/636650/534521.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/3/4/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/4/9/8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/5/19/16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/6/38/32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/7/77/65.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/8/155/130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiles/village_landmarks_points/9/310/260.png" beforeDir="false" />
-    </list>
+    <list default="true" id="5a6a2c3a-0392-4b6e-b4fd-db2c7939e83d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -792,20 +18,20 @@
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0" />
-      <entry key="M2" value="1.0" />
-      <entry key="M5" value="1.0" />
-      <entry key="M10" value="1.0" />
-      <entry key="M15" value="1.0" />
-      <entry key="M30" value="1.0" />
-      <entry key="H1" value="1.0" />
-      <entry key="H2" value="1.0" />
-      <entry key="H4" value="1.0" />
-      <entry key="D1" value="1.0" />
-      <entry key="W1" value="1.0" />
+      <entry key="S5" value="1.0000000044789261" />
+      <entry key="S10" value="1.0000669247792158" />
+      <entry key="S30" value="1.0406002756692592" />
+      <entry key="S60" value="1.2014951013532835" />
+      <entry key="M2" value="1.4489334571066235" />
+      <entry key="M5" value="1.8089225701244376" />
+      <entry key="M10" value="3.060706599967093" />
+      <entry key="M15" value="5.132574375363818" />
+      <entry key="M30" value="11.37771626524316" />
+      <entry key="H1" value="18.778633625323536" />
+      <entry key="H2" value="24.70643365763575" />
+      <entry key="H4" value="28.50075833809912" />
+      <entry key="D1" value="32.1953805937806" />
+      <entry key="W1" value="32.88363037304666" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -827,23 +53,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.1641532182693469E-10" />
-      <entry key="MS500" value="0.01030865555291324" />
-      <entry key="S2" value="0.31864015682981556" />
-      <entry key="S5" value="0.63287829698514" />
-      <entry key="S10" value="0.7955364837549187" />
-      <entry key="S30" value="0.9265880618903709" />
-      <entry key="S60" value="0.9625944431017514" />
-      <entry key="M2" value="0.9811189749983187" />
-      <entry key="M5" value="0.9924043746858185" />
-      <entry key="M10" value="0.9961949481330542" />
-      <entry key="M15" value="0.9974616873154644" />
-      <entry key="M30" value="0.9987300372550454" />
-      <entry key="H1" value="0.9993648168987367" />
-      <entry key="H2" value="0.9996823580011486" />
-      <entry key="H4" value="0.9998411663865159" />
-      <entry key="D1" value="0.9999735259789634" />
-      <entry key="W1" value="0.9999962179540834" />
+      <entry key="MS100" value="0.9201876506248751" />
+      <entry key="MS500" value="0.9835020740262483" />
+      <entry key="S2" value="0.9958497530944581" />
+      <entry key="S5" value="0.9983378341733691" />
+      <entry key="S10" value="0.9992354198120096" />
+      <entry key="S30" value="1.040308048954785" />
+      <entry key="S60" value="1.2013192407627815" />
+      <entry key="M2" value="1.4488223597107588" />
+      <entry key="M5" value="1.8086176811982622" />
+      <entry key="M10" value="3.0589142260858346" />
+      <entry key="M15" value="5.129543468052853" />
+      <entry key="M30" value="11.373564443644051" />
+      <entry key="H1" value="18.775041801560157" />
+      <entry key="H2" value="24.70403550317836" />
+      <entry key="H4" value="28.499366669002086" />
+      <entry key="D1" value="32.195117366065816" />
+      <entry key="W1" value="32.88359193586689" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -876,6 +102,57 @@
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="sagalla story map" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="sagalla story map" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="sagalla story map" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="sagalla story map" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
